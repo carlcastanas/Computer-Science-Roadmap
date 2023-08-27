@@ -4,6 +4,11 @@ Welcome to the comprehensive Computer Science 4-Year Roadmap! This guide will he
 
 - **LinkedIn:** Follow me on [LinkedIn](https://www.linkedin.com/in/carlcastanas) so we can connect. If you're looking for job opportunities or need recommendations, I'm here to help.
 - **GitHub:** Having a GitHub account is crucial for showcasing your projects and collaborating with others. Learn why [GitHub is important](#why-github).
+- **Computer:** You'll need a computer to code and run programs. If you don't have one yet, consider buying a laptop or desktop.
+- **Internet Connection:** A stable internet connection is essential for online learning and collaboration.
+- **Text Editor:** A text editor is a program for writing code. I recommend [Visual Studio Code](https://code.visualstudio.com/).
+- **Browser:** A browser is a program for accessing websites. I recommend [Google Chrome](https://www.google.com/chrome/). or [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/).
+- **Motivation:** Computer science is a challenging field, so it's essential to stay motivated. Remember your goals and why you're pursuing computer science.
 
 ## Table of Contents
 - [Year 1: Foundations](#year-1-foundations)
