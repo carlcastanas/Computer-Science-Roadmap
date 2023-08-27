@@ -201,33 +201,17 @@ GitHub is a platform for version control and collaborative coding. It's essentia
 - Collaborating with others on coding projects.
 - Demonstrating your coding skills and contributions.
 
-Follow me on GitHub for collaboration: [CarlCastanas](https://github.com/carlcastanas)
+Follow me on GitHub for collaboration: [carlcastanas](https://github.com/carlcastanas)
 
 ## Possible Job Roles and Salary Estimates
 
-### Philippines (PHP)
-
-| Job Role                 | Salary Range (PHP)       |
-|--------------------------|--------------------------|
-| Software Engineer        | PHP 400,000 - 800,000    |
-| Data Scientist           | PHP 500,000 - 1,000,000  |
-| UI/UX Designer           | PHP 300,000 - 600,000    |
-
-### United States (USD)
-
-| Job Role                 | Salary Range (USD)       |
-|--------------------------|--------------------------|
-| Software Developer       | $80,000 - $140,000       |
-| Data Engineer            | $90,000 - $160,000       |
-| UX Researcher            | $70,000 - $120,000       |
-
-### Australia (AUD)
-
-| Job Role                 | Salary Range (AUD)       |
-|--------------------------|--------------------------|
-| Full Stack Developer     | AUD 70,000 - 130,000     |
-| Machine Learning Engineer| AUD 90,000 - 150,000     |
-| Product Manager          | AUD 80,000 - 140,000     |
+| Job Role                 | Salary Range (USD)     | Salary Range (PHP)     | Salary Range (AUD)     |
+|--------------------------|------------------------|------------------------|------------------------|
+| Software Engineer        | $80,000 - $140,000     | PHP 400,000 - 800,000  | AUD 90,000 - 150,000  |
+| Data Engineer            | $90,000 - $160,000     | PHP 450,000 - 900,000  | AUD 100,000 - 170,000 |
+| UI/UX Designer           | $70,000 - $120,000     | PHP 350,000 - 600,000  | AUD 80,000 - 130,000  |
+| Game Developer          | $70,000 - $130,000     | PHP 350,000 - 750,000  | AUD 80,000 - 150,000  |
+| Security Analyst         | $75,000 - $130,000     | PHP 380,000 - 650,000  | AUD 85,000 - 145,000  |
 
 ## Conclusion
 
