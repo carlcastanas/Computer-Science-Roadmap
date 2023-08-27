@@ -1,4 +1,16 @@
-# Computer Science 4-Year Roadmap
+<div align="center">
+  <img src="./assets/img/image.gif" alt="Icreatechs Logo">
+  <h3>Computer Science 4-Year Roadmap</h3>
+  <div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/Computer-Science-Roadmap)](https://github.com/carlcastanas/Computer-Science-Roadmap/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/Computer-Science-Roadmap)](https://github.com/carlcastanas/Computer-Science-Roadmap/network/members)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.Computer-Science-Roadmap)
+
+</div>
+
+</div>
 
 Welcome to the comprehensive Computer Science 4-Year Roadmap! This guide will help you navigate through the essential topics in computer science over the next four years. Before we dive in, here's what you should have first:
 
