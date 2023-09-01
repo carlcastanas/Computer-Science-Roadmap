@@ -55,6 +55,7 @@ Welcome to the comprehensive Computer Science 4-Year Roadmap! This guide will he
 
 **Resources:**
 - [Coursera - Algorithms and Data Structures](https://www.coursera.org/specializations/algorithms)
+- [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ### Capstone Project Options
 **Why This?** Capstone projects help you apply your skills to practical applications.
@@ -73,17 +74,17 @@ Choose one:
 
 **What to Learn:**
 - **Classes, Objects:** Core OOP concepts.
-- **Inheritance, Encapsulation:** Advanced OOP principles.
+- **Inheritance, Encapsulation:** Advanced OOP Principles
 
 **Resources:**
 - [edX - Object-Oriented Programming](https://www.edx.org/learn/object-oriented-programming)
 
 ### Discrete Mathematics
-**Why Learn This?** Discrete math provides logical thinking and problem-solving skills, essential for computer science.
+**Why Learn This?** Discrete math provides logical thinking and problem-solving skills, which are essential for computer science.
 
 **What to Learn:**
 - **Logic:** Enhance logical reasoning.
-- **Sets, Relations, Graphs:** Essential structures.
+- **Sets, Relations, and Graphs:** Essential Structures
 
 **Resources:**
 - [Khan Academy - Discrete Mathematics](https://www.khanacademy.org/math/discrete-math)
@@ -97,7 +98,9 @@ Choose one:
 
 **Resources:**
 - [MDN Web Docs](https://developer.mozilla.org/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Responsive Web Design by freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [Front End Development & Libraries by freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- [The Odin Project](https://www.theodinproject.com/)
 
 ### Capstone Project Options
 **Why This?** Capstone projects challenge you to combine your skills and create sophisticated applications.
@@ -126,15 +129,16 @@ Choose one:
 **Why Learn This?** Databases and SQL are crucial for data storage, retrieval, and management.
 
 **What to Learn:**
-- **Relational Databases:** Learn tables, relationships, normalization.
+- **Relational Databases:** Learn tables, relationships, and normalization.
 - **SQL Queries:** Retrieve and manipulate data.
 
 **Resources:**
 - [SQLZoo](https://sqlzoo.net/)
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 
+  
 ### Networking Basics
-**Why Learn This?** Understanding networking underlies modern computing, vital for building web applications and systems.
+**Why Learn This?** Understanding networking underlies modern computing and is vital for building web applications and systems.
 
 **What to Learn:**
 - **TCP/IP:** Learn protocols and communication.
@@ -142,6 +146,8 @@ Choose one:
 
 **Resources:**
 - [Networking Basics](https://www.cloudflare.com/learning/networking/what-is-networking/)
+- [Networking Basics](https://www.cloudflare.com/learning/networking/what-is-networking/)
+
 
 ### Capstone Project Options
 **Why This?** Complex capstone projects demonstrate your growing skillset.
@@ -165,6 +171,8 @@ Choose one:
 **Resources:**
 - [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [fast.ai](https://www.fast.ai/)
+- [Machine Learning with Python by freeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+
 
 ### Cloud Computing and DevOps
 **Why Learn This?** Cloud computing is prevalent, and DevOps streamlines development and deployment.
@@ -227,7 +235,7 @@ Follow me on GitHub for collaboration: [carlcastanas](https://github.com/carlcas
 | Software Engineer        | $80,000 - $140,000     | PHP 400,000 - 800,000  | AUD 90,000 - 150,000  |
 | Data Engineer            | $90,000 - $160,000     | PHP 450,000 - 900,000  | AUD 100,000 - 170,000 |
 | UI/UX Designer           | $70,000 - $120,000     | PHP 350,000 - 600,000  | AUD 80,000 - 130,000  |
-| Game Developer          | $70,000 - $130,000     | PHP 350,000 - 750,000  | AUD 80,000 - 150,000  |
+| Game Developer           | $70,000 - $130,000     | PHP 350,000 - 750,000  | AUD 80,000 - 150,000  |
 | Security Analyst         | $75,000 - $130,000     | PHP 380,000 - 650,000  | AUD 85,000 - 145,000  |
 
 ## Conclusion
