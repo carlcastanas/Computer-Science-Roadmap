@@ -146,7 +146,6 @@ Choose one:
 
 **Resources:**
 - [Networking Basics](https://www.cloudflare.com/learning/networking/what-is-networking/)
-- [Networking Basics](https://www.cloudflare.com/learning/networking/what-is-networking/)
 
 
 ### Capstone Project Options
